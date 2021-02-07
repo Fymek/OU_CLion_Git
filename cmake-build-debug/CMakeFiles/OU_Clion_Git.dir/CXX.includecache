@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Fymek/Desktop/Studia/Podstawy_Programowania/programowanie_w_c/cwiczenia/Fymek/OU_Clion_Git/main.cpp
+iostream
+-
+
